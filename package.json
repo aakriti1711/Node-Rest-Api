@@ -1,0 +1,31 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESTFUL ToDO List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakriti1711/Node-Rest-Api.git"
+  },
+  "keywords": [
+    "RESTFUL",
+    "API"
+  ],
+  "author": "aakriti gangwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakriti1711/Node-Rest-Api/issues"
+  },
+  "homepage": "https://github.com/aakriti1711/Node-Rest-Api#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.3"
+  }
+}
