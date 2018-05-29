@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/aakriti1711/Node-Rest-Api/issues"
   },
-  "homepage": "https://github.com/aakriti1711/Node-Rest-Api#readme"
+  "homepage": "https://github.com/aakriti1711/Node-Rest-Api#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
