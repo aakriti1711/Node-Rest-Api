@@ -1,6 +1,7 @@
 # Node-Rest-Api
 Create NodeJS REST API with simple CRUD operation
 
+
 Tools Used:
 Node.js
 MongoDB
@@ -13,6 +14,11 @@ Postman
 4. mongod - create . mongodb Instance
 5. Test via PostMan GET , POST , PUT , DELETE
 
+To run this application
+1. npm install
+2. npm run start
+3. mongod on next terminal
+4. try GET/ POST operation via Postman
 
 
 
